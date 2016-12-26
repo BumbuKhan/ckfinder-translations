@@ -43,7 +43,7 @@
 		"countOne": "1 fayl",
 		"deleteConfirmation": "Siz {count} fayl silmək istədiyinizə əminsinizmi?",
 		"fileDeleteConfirmation": "Siz \"{name}\" faylı silmək istədiyinizə əminsinizmi?",
-		"fileRenameExtensionConfirmation": "Siz faylın genişlənməsi dəyişmək istədiyinizə əminsinizmi? Fayl istifadəyə yararsız oluna bilər.",
+		"fileRenameExtensionConfirmation": "Siz faylın genişlənməsini dəyişmək istədiyinizə əminsinizmi? Fayl istifadəyə yararsız oluna bilər.",
 		"fileRenameLabel": "Yeni faylın adı daxil edin: ",
 		"filesPaneTitle": "Fayllar paneli",
 		"filesRefresh": "Faylların yenilənməsi",
